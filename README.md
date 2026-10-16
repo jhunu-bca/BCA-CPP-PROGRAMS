@@ -1,10 +1,16 @@
-# BCA-CPP-PROGRAMS
-practicing C++ programs from basics to advanced 📚 🚀
+# BCA - C++ Programs
+Practicing C++ programs from basics to advanced 🚀
 
-C++ programs from my BCA 1st year - revising in 2nd year.
+## 📚 About
+This repository contains my C++ programming practice from BCA 1st Year. Currently in BCA 2nd Year - revising and building advanced concepts.
 
-This repository contains my C++ programming practice for BCA.
+## 📂 Programs List
+1. **Swapping Two Numbers**
+   - File: `Swapping_two_nums.cpp`
+   - Concept: `iostream`, `variables`, `temp variable swapping`
+   - Description: Swaps two numbers using a third variable.
 
-📚 PROGRAM LIST
-
-#1. Swapping Two Numbers using temp.
+## 🚀 How to Run
+```bash
+g++ Swapping_two_nums.cpp -o swap
+./swap
