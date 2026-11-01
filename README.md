@@ -10,7 +10,7 @@ This repository contains my C++ programming practice from BCA 1st Year. Currentl
    - Concept: `iostream`, `variables`, `temp variable swapping`
    - Description: Swaps two numbers using a third variable.
 
-1. **Basic Arithmetic Operations**
+2. **Basic Arithmetic Operations**
    - File: `basic_arithmetic_operations.cpp`
    - Concept: `iostream`, `variables`, `arithmetic operators`, `type casting`, `if-else statement`
    - Description: Take 2 numbers as input and prints sum, substraction, multiplication, division and modulus. Handles divided by 0 error.
