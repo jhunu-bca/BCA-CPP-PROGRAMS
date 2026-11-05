@@ -10,6 +10,7 @@ int factorial(int n) {
 }
 
 int main() {
+
     int num;
     cout << "Enter the number:";
     cin >> num;
