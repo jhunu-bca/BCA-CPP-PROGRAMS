@@ -21,6 +21,11 @@ This repository contains my C++ programming practice from BCA 1st Year. Currentl
    - Concept: `iostream`, `variables`, `function`, `recursion`, `if-else statement`
    - Description: Takes a number as input and prints its factorial using a recursive function. Base case is 0 and 1 returns 1.
 
+### 4. Sum of Two Numbers
+- **File:** `Sum_of_nums.cpp`
+- **Concept:** `iostream`, `variables`, `cin`, `cout`
+- **Description:** Takes two numbers from user and prints their sum.
+
 ## 🚀 How to Run
 ```bash
 g++ Swapping_two_nums.cpp -o swap
